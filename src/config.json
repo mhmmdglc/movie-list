@@ -1,0 +1,6 @@
+{
+    "BaseUrl": "https://api.themoviedb.org",
+    "SearchPath": "/3/search/movie",
+    "ImageUrl": "https://image.tmdb.org/t/p/w200",
+    "Key": "6348e24be2bd3d0412fad55878e35eda"
+}
